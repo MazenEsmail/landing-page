@@ -320,7 +320,7 @@ button:hover {
     text-align: center;
   }
   .bottom > div button{
-    width :50px;
+    width :80px;
   }
   .body {
     display: flex;
